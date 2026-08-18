@@ -1,11 +1,12 @@
 {
   "name": "atividade-grupo",
   "version": "1.0.0",
-  "description": "",
+  "description": "olá belesa",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosscosta6-cyber/atividadeEmGrupoAmanha.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcosscosta6-cyber/atividadeEmGrupoAmanha/issues"
+  },
+  "homepage": "https://github.com/marcosscosta6-cyber/atividadeEmGrupoAmanha#readme"
 }
